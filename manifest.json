@@ -1,12 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "My Chrome Extension",
+  "name": "Click Sylabas",
   "version": "1.0",
   "description": "A simple Chrome extension",
-  "action": {
-    "default_popup": "popup.html"
-  },
-  "permissions": ["activeTab"],
   "content_scripts": [
     {
       "matches": ["https://navi.mars.kanazawa-it.ac.jp/portal/student"],
