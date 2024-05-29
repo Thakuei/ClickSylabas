@@ -15,7 +15,7 @@
               "https://navi.mars.kanazawa-it.ac.jp/portal/student/inKITP0000001LoginFailed"
           ],
           "js": [
-              "click.js"
+              "content.js"
           ]
       }
   ]
