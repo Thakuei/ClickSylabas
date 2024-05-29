@@ -4,9 +4,9 @@
   "description": "学生ポータルにエンターキーでログインできるようになる拡張機能です．",
   "manifest_version": 3,
   "icons": {
-      "16": "icon/imitation-driver.webp",
-      "48": "icon/imitation-driver.webp",
-      "128": "icon/imitation-driver.webp"
+      "16": "imitation-driver.webp",
+      "48": "imitation-driver.webp",
+      "128": "imitation-driver.webp"
   },
   "content_scripts": [
       {
